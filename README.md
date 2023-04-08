@@ -5,6 +5,8 @@ The focus of this software will be to manage a car rental franchise. The softwar
 
 
 The application will have a five-level user system: Administrator, Car Rental Agent, Customer, Driver. Each will have different  views and usage of the software. Each of the users has a username and a password to enter in the software (obviously a role as well). 
+
+
 Administrator -> The administrator has the right to manage almost everything that agents and drivers do. Beside  them, he has the right to manage the employees, by registering, modifying, and deleting them. He may keep data about them such as: name, birthday, id, phone number, email, salary,  access level, and other information about them. The software should also provide to him data about total incomes (total cars rented and the total made by that) and total cost (total of items bought and staff salaries) during a period.
 
 
