@@ -1,0 +1,15 @@
+1.	It is assumed that the staff and customers are familiar with the English or Albanian language.
+
+2.	The car rental software application assumes the availability of a stable and reliable internet connection for both the staff and customers to access the system.
+
+3.	It is assumed that the application will be available on popular mobile devices with the latest iOS and Android operating systems.
+
+4.	The application assumes that the staff and customers have basic knowledge of operating the application and troubleshooting any issues that may arise.
+
+5.	It is assumed that the car rental company will have a valid and up-to-date insurance policy for all their vehicles and customers, and that customers will be made aware of the insurance coverage and limitations.
+
+6.	It is assumed that the car rental company will have enough vehicles available to meet the demand of their customers during peak times.
+
+7.	It is assumed that the car rental company will have a customer support system in place to address any concerns or issues that customers may have while using the application or renting a vehicle.
+
+8.	The application assumes that the customers will return the rented car on time and in the same condition as when it was rented, and that any damages or additional charges will be promptly communicated and resolved.

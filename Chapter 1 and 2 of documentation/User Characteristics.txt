@@ -1,0 +1,57 @@
+ Administrator:
+
+•	Has the authority to manage everything that agents and drivers do.
+
+•	Has the authority to manage employees’ information.
+
+•	Can view data about total incomes and total costs.
+
+•	Needs access to data about all the cars, reservations, and customer information.
+
+•	Changes the prices of the cars and other specifications.
+
+•	Adds and removes cars from the catalog.
+
+
+Car Rental Agent:
+
+•	Needs access to data about available cars and reservations.
+
+•	Can issue invoices and rental contracts.
+
+•	Needs access to GPS device data for tracking cars.
+
+•	Receives notifications about the day’s reservations and rented cars.
+
+•	Needs to check for fines and ensure customers pay them.
+
+•	Notifies other agents when a car becomes unavailable.
+
+Customer:
+
+•	Needs to log in or sign up to make a reservation.
+
+•	Can see available cars and make reservations through the website.
+
+•	Needs to provide personal information, such as name, surname, birthday, ID, email, and phone number.
+
+•	Can pay through credit card.
+
+•	Is obliged to return the car in good condition and pay for any fines incurred.
+
+•	Notifies the agency for any problems he might have with the car
+.
+•	Can inquire information about prices and cars specifications.
+
+•	May have different levels of subscription (regular, premium, or platinum) with different rental options and extra features
+
+Driver:
+•	Needs access to reservation information.
+
+•	Can check off whether the car has been delivered or not.
+
+•	Is responsible for checking the car before and after delivering it to the customer and ensuring it is in good condition.
+
+•	Reports any damage or issue to the administrator.
+
+•	Reports about any investment that is needed for any of the cars.
